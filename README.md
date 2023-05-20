@@ -10,7 +10,7 @@ Building contaners for effectively running a local artificial general intelligen
 Have reproducable software environments to spin up services on demand for testing, try out and - connecting to AGiXT.
 Setup and streamline docker containers for quick and user friendly usage.
 
-CUDA enablement. Matrix builds. Multiarch builds. For everyone.
+CUDA enabled. Matrix builds. Multiarch builds. For everyone.
 
 ## Sharing is caring
 

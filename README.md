@@ -37,10 +37,12 @@ My maintenance is focussed on build stabilty and availability of service contain
 | [stablediffusion2](localagi/stablediffusion2-docker) |        |                     |                   |                     WIP  | |
 
 ### AI-pipeline-built services using inference services
-| Service                                                       |  Release              | Original Repo |
-|---------------------------------------------------------------|-----------------------|---------------|
-| [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker) | (:heavy_check_mark:)  | https://github.com/ricklamers/gpt-code-ui |
-| [AGiXT](https://github.com/localagi/agent-llm)                | (:heavy_check_mark:)  | https://github.com/josh-xt/AGiXT |
+| Service                                                                |  Release              | Original Repo |
+|------------------------------------------------------------------------|-----------------------|---------------|
+| [AGiXT](https://github.com/localagi/agent-llm)                         | (:heavy_check_mark:)  | https://github.com/josh-xt/AGiXT |
+| [AGiXT-Frontend](https://github.com/localagi/agent-llm-frontend)       | :heavy_check_mark:    | https://github.com/JamesonRGrieve/Agent-LLM-Frontend |
+| [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker)          | (:heavy_check_mark:)  | https://github.com/ricklamers/gpt-code-ui |
+
 
 
 

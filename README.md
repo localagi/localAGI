@@ -19,7 +19,7 @@ CUDA enabled. BLAS enabled. Matrix builds. Multiarch builds. For everyone.
 
 With strong expertise in `docker` and `github workflows` I want to bring all the AI-related projects online.
 
-Working on [AI-dedicated Workflows](https://github.com/localagi/ai-dedicated-workflows) to share best practices over several repositories and projects.
+**Working on [AI-dedicated Workflows](https://github.com/localagi/ai-dedicated-workflows)** to share best practices over several repositories and projects.
 
 ## State of work
 

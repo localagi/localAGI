@@ -23,7 +23,7 @@ With strong expertise in `docker` and `github workflows` I want to bring all the
 
 ## State of work
 
-The following projects on my namespace are built using the **AI pipeline**.
+The following projects on my namespace are built using the **[AI pipeline](https://github.com/localagi/ai-dedicated-workflows)**.
 My maintenance is focussed on build stabilty and availability of service containers.
 
 ### AI-pipeline-built services running inference

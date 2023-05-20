@@ -25,9 +25,9 @@ All the following projects are built using the above mentioned pipeline - my mai
 | [oobabooga](https://github.com/localagi/oobabooga-docker)     | LLama           | HF, GGML, GPTQ      | oobabooga         | (:heavy_check_mark:) | https://github.com/oobabooga/text-generation-webui |
 | [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker) | any?            | ?                   | ?                 | (:heavy_check_mark:) | https://github.com/ricklamers/gpt-code-ui |
 | [llama-cpp](https://github.com/localagi/llama-cpp-server)     | LLama           | HF, GGML, GPTQ      | ?                 | WIP | https://github.com/abetlen/llama-cpp-python |
-| gpt4all | | | | | WIP |
-| gpt4free | | | | | WIP |
-| [stablediffusion2](localagi/stablediffusion2-docker) |        |                     |                   |                      | |
+| gpt4all | | | | WIP |  |
+| gpt4free | | | | WIP |  |
+| [stablediffusion2](localagi/stablediffusion2-docker) |        |                     |                   |                     WIP  | |
 
 
 

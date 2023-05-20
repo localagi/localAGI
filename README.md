@@ -1,6 +1,8 @@
 ## 🧮 localAGI 🧮
 Thats me. Building AGI on local hardware.
 
+*You want to run your own inferences with ease? Good you are awake.*
+
 Here because of https://github.com/Josh-XT/AGiXT
 
 Building contaners for effectively running a local artificial general intelligence.

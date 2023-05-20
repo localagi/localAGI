@@ -1,5 +1,5 @@
-### localAGI
-Building AGI on local hardware.
+## 🧮 localAGI 🧮
+Thats me. Building AGI on local hardware.
 
 Here because of https://github.com/Josh-XT/AGiXT
 
@@ -8,6 +8,7 @@ Building contaners for effectively running a local artificial general intelligen
 ## Motivation
 
 Have reproducable software environments to spin up services on demand for testing, try out and - connecting to AGiXT.
+Setup and streamline docker containers for quick and user friendly usage.
 
 ## Sharing is caring
 

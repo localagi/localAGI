@@ -26,7 +26,7 @@ With strong expertise in `docker` and `github workflows` I want to bring all the
 The following projects on my namespace are built using the **[AI pipeline](https://github.com/localagi/ai-dedicated-workflows)**.
 My maintenance is focussed on build stabilty and availability of service containers.
 
-### AI-pipeline-built services running inference
+### AI-pipeline-built services for *running* inference
 | Service                                                      | Model-types     | Model-quantisations | API-compatibility | Release              | Original Repo |
 ---------------------------------------------|-----------------|---------------------|-------------------|----------------------|---------------|
 | [FastChat](https://github.com/localagi/FastChat-docker)       | e.g. Vicuna, T5 | T5, HF              | OpenAI            | :heavy_check_mark:   | https://github.com/lm-sys/FastChat |
@@ -36,7 +36,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 | gpt4free | | | | WIP |  |
 | [stablediffusion2](https://github.com/localagi/stablediffusion2-docker) |        |                     |                   |                     WIP  | |
 
-### AI-pipeline-built services using inference services
+### AI-pipeline-built services for *using* inference
 | Service                                                                |  Release              | Original Repo |
 |------------------------------------------------------------------------|-----------------------|---------------|
 | [AGiXT](https://github.com/localagi/agent-llm)                         | (:heavy_check_mark:)  | https://github.com/josh-xt/AGiXT |

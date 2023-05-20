@@ -13,7 +13,7 @@ Initially started my work for deployments of [josh-XT/AGiXT](https://github.com/
 Having reproducable software environments to spin up services on demand for testing and sky-netting.
 Setup and streamline docker containers for quick and user friendly usage.
 
-CUDA enabled. Matrix builds. Multiarch builds. For everyone.
+CUDA enabled. BLAS enabled. Matrix builds. Multiarch builds. For everyone.
 
 ## Sharing is caring
 

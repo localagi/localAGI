@@ -1,23 +1,25 @@
 ## 🧮 localAGI 🧮
 Fulltime nerd. Passionate developer. DevOp at heart.
 
-Thats me. Building AGI on local hardware.
+Thats me. :bowtie: Building AGI on local hardware.
 
 *You want to **run your own inferences** with ease? Good you are awake.*
 
 
 Building contaners for effectively running a local artificial general intelligence.
 
-## Motivation
+## :stars: Motivation :stars:
 
 Initially started my work for deployments of [josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT)
 
 Having reproducable software environments to spin up services on demand for testing and sky-netting.
 Setup and streamline docker containers for quick and user friendly usage.
 
-CUDA enabled. BLAS enabled. Matrix builds. Multiarch builds. For everyone.
+:rocket: CUDA enabled. :desktop_computer: BLAS enabled. :smirk: Conda-less. :onion: Matrix builds. :office: Multiarch builds. For everyone.
 
-## Sharing is caring
+
+
+## :hibiscus: Sharing is caring :hibiscus:
 
 With strong expertise in `docker` and `github workflows` I want to bring all the AI-related projects online.
 

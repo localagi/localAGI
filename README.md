@@ -1,4 +1,5 @@
 ## 🧮 localAGI 🧮
+Fulltime nerd. Passionate developer. DevOp at heart.
 Thats me. Building AGI on local hardware.
 
 *You want to **run your own inferences** with ease? Good you are awake.*

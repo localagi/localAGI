@@ -23,9 +23,10 @@ Working on [AI-dedicated Workflows](https://github.com/localagi/ai-dedicated-wor
 
 ## State of work
 
-All the following projects are built using the above mentioned pipeline - my maintenance is focussed on build stabilty and availability of service containers.
+The following projects on my namespace are built using the **AI pipeline**.
+My maintenance is focussed on build stabilty and availability of service containers.
 
-### Services running inference
+### AI-workflow-built services running inference
 | Service                                                      | Model-types     | Model-quantisations | API-compatibility | Release              | Original Repo |
 ---------------------------------------------|-----------------|---------------------|-------------------|----------------------|---------------|
 | [FastChat](https://github.com/localagi/FastChat-docker)       | e.g. Vicuna, T5 | T5, HF              | OpenAI            | :heavy_check_mark:   | https://github.com/lm-sys/FastChat |
@@ -35,7 +36,7 @@ All the following projects are built using the above mentioned pipeline - my mai
 | gpt4free | | | | WIP |  |
 | [stablediffusion2](localagi/stablediffusion2-docker) |        |                     |                   |                     WIP  | |
 
-### Services using inference services
+### AI-workflow-built services using inference services
 | Service                                                       |  Release              | Original Repo |
 |---------------------------------------------------------------|-----------------------|---------------|
 | [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker) | (:heavy_check_mark:)  | https://github.com/ricklamers/gpt-code-ui |

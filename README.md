@@ -5,6 +5,10 @@ Here because of https://github.com/Josh-XT/AGiXT
 
 Building contaners for effectively running a local artificial general intelligence.
 
+## Motivation
+
+Have reproducable software environments to spin up services on demand for testing, try out and - connecting to AGiXT.
+
 ## State of work
 
 | Service                          | Model-types     | Model-quantisations | API-compatibility | Release              | Original Repo |

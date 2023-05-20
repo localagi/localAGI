@@ -3,13 +3,14 @@ Thats me. Building AGI on local hardware.
 
 *You want to run your own inferences with ease? Good you are awake.*
 
-Here because of https://github.com/Josh-XT/AGiXT
 
 Building contaners for effectively running a local artificial general intelligence.
 
 ## Motivation
 
-Have reproducable software environments to spin up services on demand for testing, try out and - connecting to AGiXT.
+Initially started this work for deployments of https://github.com/Josh-XT/AGiXT
+
+Having reproducable software environments to spin up services on demand for testing and sky-netting.
 Setup and streamline docker containers for quick and user friendly usage.
 
 CUDA enabled. Matrix builds. Multiarch builds. For everyone.

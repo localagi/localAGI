@@ -8,7 +8,7 @@ Building contaners for effectively running a local artificial general intelligen
 
 ## Motivation
 
-Initially started this work for deployments of https://github.com/Josh-XT/AGiXT
+Initially started my work for deployments of https://github.com/Josh-XT/AGiXT
 
 Having reproducable software environments to spin up services on demand for testing and sky-netting.
 Setup and streamline docker containers for quick and user friendly usage.

@@ -19,13 +19,12 @@ Working on [AI-dedicated Workflows](https://github.com/localagi/ai-dedicated-wor
 
 All the following projects are built using the above mentioned pipeline - my maintenance is focussed on build stabilty and availability of service containers.
 
-| Service                                    | Model-types     | Model-quantisations | API-compatibility | Release              | Original Repo |
+| Service                                                      | Model-types     | Model-quantisations | API-compatibility | Release              | Original Repo |
 ---------------------------------------------|-----------------|---------------------|-------------------|----------------------|---------------|
-| [FastChat](localagi/FastChat-docker)       | e.g. Vicuna, T5 | T5, HF              | OpenAI            | :heavy_check_mark:   | https://github.com/lm-sys/FastChat |
-| [oobaboogal](localagi/oobabooga-docker)    | LLama           | HF, GGML, GPTQ      | oobabooga         | (:heavy_check_mark:) | https://github.com/oobabooga/text-generation-webui |
-| [gpt-code-ui](localagi/gpt-code-ui-docker) | any?            | ?                   | oobabooga         | (:heavy_check_mark:) | https://github.com/oobabooga/text-generation-webui |
-| [llama-cpp](localagi/llama-cpp-server)     | LLama           | HF, GGML, GPTQ      | | | WIP |
-
+| [FastChat](https://github.com/localagi/FastChat-docker)       | e.g. Vicuna, T5 | T5, HF              | OpenAI            | :heavy_check_mark:   | https://github.com/lm-sys/FastChat |
+| [oobabooga](https://github.com/localagi/oobabooga-docker)     | LLama           | HF, GGML, GPTQ      | oobabooga         | (:heavy_check_mark:) | https://github.com/oobabooga/text-generation-webui |
+| [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker) | any?            | ?                   | ?                 | (:heavy_check_mark:) | https://github.com/ricklamers/gpt-code-ui |
+| [llama-cpp](https://github.com/localagi/llama-cpp-server)     | LLama           | HF, GGML, GPTQ      | ?                 | WIP | https://github.com/abetlen/llama-cpp-python |
 | gpt4all | | | | | WIP |
 | gpt4free | | | | | WIP |
 | [stablediffusion2](localagi/stablediffusion2-docker) |        |                     |                   |                      | |

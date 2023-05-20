@@ -10,6 +10,8 @@ Building contaners for effectively running a local artificial general intelligen
 Have reproducable software environments to spin up services on demand for testing, try out and - connecting to AGiXT.
 Setup and streamline docker containers for quick and user friendly usage.
 
+CUDA enablement. Matrix builds. Multiarch builds. For everyone.
+
 ## Sharing is caring
 
 With strong expertise in `docker` and `github workflows` I want to bring all the AI-related projects online.

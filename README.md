@@ -34,7 +34,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 | [llama-cpp](https://github.com/localagi/llama-cpp-server)     | LLama           | HF, GGML, GPTQ      | ?                 | WIP | https://github.com/abetlen/llama-cpp-python |
 | gpt4all | | | | WIP |  |
 | gpt4free | | | | WIP |  |
-| [stablediffusion2](localagi/stablediffusion2-docker) |        |                     |                   |                     WIP  | |
+| [stablediffusion2](https://github.com/localagi/stablediffusion2-docker) |        |                     |                   |                     WIP  | |
 
 ### AI-pipeline-built services using inference services
 | Service                                                                |  Release              | Original Repo |

@@ -7,9 +7,9 @@ Building contaners for effectively running a local artificial general intelligen
 
 ## State of work
 
-| Service                       | Model-types     | Model-quantisations | API-compatibility | Release | Original Repo |
-========================================================================================================================
-| [FastChat](localagi/FastChat) | e.g. Vicuna, T5 | T5, HF              | OpenAI            | :heavy_check_mark:   | https://github.com/lm-sys/FastChat |
+| Service                          | Model-types     | Model-quantisations | API-compatibility | Release | Original Repo |
+----------------------------------------------------------------------------------------------------------------------
+| [FastChat](localagi/FastChat)    | e.g. Vicuna, T5  | T5, HF              | OpenAI            | :heavy_check_mark:   | https://github.com/lm-sys/FastChat |
 | [oobaboogal](localagi/oobabooga) | any?          | HF, GGML, GPTQ      | oobabooga         | (:heavy_check_mark:) | https://github.com/oobabooga/text-generation-webui |
 | gpt4all ||||| WIP |
 | gpt4free ||||| WIP |

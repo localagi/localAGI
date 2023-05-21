@@ -39,11 +39,11 @@ My maintenance is focussed on build stabilty and availability of service contain
 ### AI-pipeline-built services for *running* inference
 | Service                                                          | Release            | Model-types     | Model-quantisations | API-compatibility | Original Repo |
 -------------------------------------------------------------------|--------------------|-----------------|---------------------|-------------------|---------------|
-| [FastChat](https://github.com/localagi/FastChat-docker)          | ![](https://github.com/localagi/FastChat-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | e.g. Vicuna, T5 | T5, HF              | OpenAI            | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
+| [FastChat](https://github.com/localagi/FastChat-docker)          | ![](https://github.com/localagi/FastChat-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main)  | e.g. Vicuna, T5 | T5, HF              | OpenAI            | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
 | [oobabooga](https://github.com/localagi/oobabooga-docker)        | ![](https://github.com/localagi/oobabooga-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | LLama           | HF, GGML, GPTQ      | oobabooga         | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) |
 | [llama-cpp-server](https://github.com/localagi/llama-cpp-docker) |(:heavy_check_mark:)| LLama           | HF, GGML            | OpenAI            | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) |
 | gpt4all                                             | (:heavy_check_mark:) | | | WIP |  |
-| gpt4free                                            |      (:heavy_check_mark:)   | | | WIP |  |
+| [xtekky/gpt4free](https://github.com/xtekky/gpt4free)            | ![](https://github.com/localagi/gpt4free-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | | | WIP |  |
 | [stablediffusion2](https://github.com/localagi/stablediffusion2-docker) |         WIP  |        |                     |                   | |
 
 ### AI-pipeline-built services for *using* inference

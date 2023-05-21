@@ -49,7 +49,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 |------------------------------------------------------------------------|-----------------------|---------------|
 | [AGiXT](https://github.com/localagi/agent-llm)                         | (:heavy_check_mark:)  | [josh-XT/AGiXT](https://github.com/josh-xt/AGiXT) |
 | [AGiXT-Frontend](https://github.com/localagi/agent-llm-frontend)       | :heavy_check_mark:    | [JamesonRGrieve/Agent-LLM-Frontend](https://github.com/JamesonRGrieve/Agent-LLM-Frontend) |
-| [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker)          | (:heavy_check_mark:)  | [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) |
+| [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker)          | :heavy_check_mark:  | [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) |
 
 
 ### CLI tools and packages

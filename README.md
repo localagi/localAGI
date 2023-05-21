@@ -42,8 +42,8 @@ My maintenance is focussed on build stabilty and availability of service contain
 | [FastChat](https://github.com/localagi/FastChat-docker)          | :heavy_check_mark: | e.g. Vicuna, T5 | T5, HF              | OpenAI            | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
 | [oobabooga](https://github.com/localagi/oobabooga-docker)        | :heavy_check_mark: | LLama           | HF, GGML, GPTQ      | oobabooga         | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) |
 | [llama-cpp-server](https://github.com/localagi/llama-cpp-docker) |(:heavy_check_mark:)| LLama           | HF, GGML            | OpenAI            | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) |
-| gpt4all | | | | WIP |  |
-| gpt4free | | | | WIP |  |
+| gpt4all                                                    | (:heavy_check_mark:) | | | WIP |  |
+| gpt4free                                            |      (:heavy_check_mark:)   | | | WIP |  |
 | [stablediffusion2](https://github.com/localagi/stablediffusion2-docker) |         WIP  |        |                     |                   | |
 
 ### AI-pipeline-built services for *using* inference

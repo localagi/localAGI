@@ -38,7 +38,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 | Service                                                          | Model-types     | Model-quantisations | API-compatibility | Release              | Original Repo |
 -------------------------------------------------------------------|-----------------|---------------------|-------------------|----------------------|---------------|
 | [FastChat](https://github.com/localagi/FastChat-docker)          | e.g. Vicuna, T5 | T5, HF              | OpenAI            | :heavy_check_mark:   | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
-| [oobabooga](https://github.com/localagi/oobabooga-docker)        | LLama           | HF, GGML, GPTQ      | oobabooga         | (:heavy_check_mark:) | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) |
+| [oobabooga](https://github.com/localagi/oobabooga-docker)        | LLama           | HF, GGML, GPTQ      | oobabooga         | :heavy_check_mark: | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) |
 | [llama-cpp-server](https://github.com/localagi/llama-cpp-docker) | LLama           | HF, GGML            | OpenAI            | (WIP) | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) |
 | gpt4all | | | | WIP |  |
 | gpt4free | | | | WIP |  |

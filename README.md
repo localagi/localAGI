@@ -41,7 +41,6 @@ My maintenance is focussed on build stabilty and availability of service contain
 -------------------------------------------------------------------|--------------------|-----------------|---------------------|-------------------|---------------|
 | [FastChat](https://github.com/localagi/FastChat-docker)          | ![](https://github.com/localagi/FastChat-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) \n
 | e.g. Vicuna, T5 | T5, HF              | OpenAI            | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
-
 | [oobabooga](https://github.com/localagi/oobabooga-docker)        | ![](https://github.com/localagi/oobabooga-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | LLama           | HF, GGML, GPTQ      | oobabooga         | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) |
 | [llama-cpp-server](https://github.com/localagi/llama-cpp-docker) |(:heavy_check_mark:)| LLama           | HF, GGML            | OpenAI            | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) |
 | [gpt4all](https://github.com/localagi/gpt4all-docker)            | ![](https://github.com/localagi/gpt4all-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | GPTJ, LLAMA, MTP (see [backend](https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-backend)) | WIP                 | ? | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) <br> [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) |

@@ -8,7 +8,7 @@ Thats me. :bowtie: Building AGI on local hardware.
 
 Building contaners for effectively running a local artificial general intelligence. :mechanical_arm:
 
-## :stars: Motivation :stars:
+## :brain: Motivation :brain:
 
 Initially started my work for deployments of [josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT)
 
@@ -25,7 +25,7 @@ With strong expertise in `docker` and `github workflows` I want to test all the 
 
 **Working on [AI-dedicated Workflows](https://github.com/localagi/ai-dedicated-workflows)** to share best practices over several repositories and projects.
 
-### :hugs: When you use any of my work, leave me a star! Thank you! :hugs:
+### :star2: When you use any of my work, leave me a star! Thank you! :star2:
 
 ## State of work
 

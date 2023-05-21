@@ -25,6 +25,9 @@ With strong expertise in `docker` and `github workflows` I want to test all the 
 
 **Working on [AI-dedicated Workflows](https://github.com/localagi/ai-dedicated-workflows)** to share best practices over several repositories and projects.
 
+**Note**
+:hugs: When you use my work, leave me a star! Thank you! :hugs:
+
 ## State of work
 
 The following projects on my namespace are built using the **[AI pipeline](https://github.com/localagi/ai-dedicated-workflows)**.

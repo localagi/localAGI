@@ -65,6 +65,10 @@ My maintenance is focussed on build stabilty and availability of service contain
 Any? Contact me (curently on AGiXT-Discord)
 
 
+## Things to consider
+- `conda` is commercial. The license prohibits any commercial use. We try to omit it on our builds, but it's your responsibility.
+- NVidia images have a license. Make sure you read them.
+- streamlit app collects heavy analytics even when running locally. This includes events for every page load, form submission including metadata on queries (like length), browser and client information including host ips. These are all transmitted to a 3rd party analytics group, Segment.com.
 
 <!--
 **localagi/localAGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -33,10 +33,10 @@ My maintenance is focussed on build stabilty and availability of service contain
 ### AI-pipeline-built services for *running* inference
 | Service                                                      | Model-types     | Model-quantisations | API-compatibility | Release              | Original Repo |
 ---------------------------------------------|-----------------|---------------------|-------------------|----------------------|---------------|
-| [FastChat](https://github.com/localagi/FastChat-docker)      | e.g. Vicuna, T5 | T5, HF              | OpenAI            | :heavy_check_mark:   | https://github.com/lm-sys/FastChat |
-| [oobabooga (text-ui)](https://github.com/localagi/oobabooga-docker)     | LLama           | HF, GGML, GPTQ      | oobabooga         | (:heavy_check_mark:) | https://github.com/oobabooga/text-generation-webui |
-| [llama-cpp](https://github.com/localagi/llama-cpp-docker)    | LLama           | HF, GGML, GPTQ      | OpenAI                 | (:heavy_check_mark:) | https://github.com/abetlen/llama-cpp-python |
-| [llama-gptq](https://github.com/localagi/llama-gptq-docker)  | LLama           | HF, GGML, GPTQ      | ?                 | WIP | TBD |
+
+| [FastChat](https://github.com/localagi/FastChat-docker)       | e.g. Vicuna, T5 | T5, HF              | OpenAI            | :heavy_check_mark:   | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
+| [oobabooga](https://github.com/localagi/oobabooga-docker)     | LLama           | HF, GGML, GPTQ      | oobabooga         | (:heavy_check_mark:) | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) |
+| [llama-cpp-server](https://github.com/localagi/llama-cpp-docker)    | LLama           | HF, GGML, GPTQ      | OpenAI                 | (WIP) | https://github.com/abetlen/llama-cpp-python |
 | gpt4all | | | | WIP |  |
 | gpt4free | | | | WIP |  |
 | [stablediffusion2](https://github.com/localagi/stablediffusion2-docker) |        |                     |                   |                     WIP  | |
@@ -44,12 +44,17 @@ My maintenance is focussed on build stabilty and availability of service contain
 ### AI-pipeline-built services for *using* inference
 | Service                                                                |  Release              | Original Repo |
 |------------------------------------------------------------------------|-----------------------|---------------|
-| [AGiXT](https://github.com/localagi/agent-llm)                         | (:heavy_check_mark:)  | https://github.com/josh-xt/AGiXT |
-| [AGiXT-Frontend](https://github.com/localagi/agent-llm-frontend)       | :heavy_check_mark:    | https://github.com/JamesonRGrieve/Agent-LLM-Frontend |
-| [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker)          | (:heavy_check_mark:)  | https://github.com/ricklamers/gpt-code-ui |
+| [AGiXT](https://github.com/localagi/agent-llm)                         | (:heavy_check_mark:)  | [josh-XT/AGiXT](https://github.com/josh-xt/AGiXT |
+| [AGiXT-Frontend](https://github.com/localagi/agent-llm-frontend)       | :heavy_check_mark:    | [JamesonRGrieve/Agent-LLM-Frontend](https://github.com/JamesonRGrieve/Agent-LLM-Frontend) |
+| [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker)          | (:heavy_check_mark:)  | [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) |
 
 
-
+### CLI tools and packages
+| Tool                                                                | Model-types     | Model-quantisations | API-compatibility | Release              | Original Repo |
+|------------------------------------------------------------------------|-----------------------|---------------|
+| [llama-cpp](https://github.com/localagi/llama-cpp-docker)     | Llama           | HF, GGML, GPTQ     | N/A    | WIP | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) |
+| [llama-cpp](https://github.com/localagi/llama-gptq-docker)  | Llama     | (:heavy_check_mark:)   |   GPTQ    | N/A | [oobabooga/GPTQ-for-Llama](https://github.com/oobabooga/GPTQ-for-LLaMa)  [qwopqwop200/GPTQ-for-Llama](https://github.com/qwopqwop200/GPTQ-for-LLaMa)  |
+| [AutoGPTQ](https://github.com/localagi/AutoGPTQ-docker)     | Llama           |  GPTQ      | ?                 | WIP | [PanQiWei/AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) |
 
 ## Requests
 Any? Contact me (curently on AGiXT-Discord)

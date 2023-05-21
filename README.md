@@ -39,19 +39,19 @@ My maintenance is focussed on build stabilty and availability of service contain
 ### AI-pipeline-built services for *running* inference
 | Service                                                          | Release            | Model-types     | Model-quantisations | API-compatibility | Original Repo |
 -------------------------------------------------------------------|--------------------|-----------------|---------------------|-------------------|---------------|
-| [FastChat](https://github.com/localagi/FastChat-docker)          | :heavy_check_mark: | e.g. Vicuna, T5 | T5, HF              | OpenAI            | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
-| [oobabooga](https://github.com/localagi/oobabooga-docker)        | :heavy_check_mark: | LLama           | HF, GGML, GPTQ      | oobabooga         | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) |
+| [FastChat](https://github.com/localagi/FastChat-docker)          | ![](https://github.com/localagi/FastChat-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | e.g. Vicuna, T5 | T5, HF              | OpenAI            | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
+| [oobabooga](https://github.com/localagi/oobabooga-docker)        | ![](https://github.com/localagi/oobabooga-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | LLama           | HF, GGML, GPTQ      | oobabooga         | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) |
 | [llama-cpp-server](https://github.com/localagi/llama-cpp-docker) |(:heavy_check_mark:)| LLama           | HF, GGML            | OpenAI            | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) |
-| gpt4all                                                    | (:heavy_check_mark:) | | | WIP |  |
+| gpt4all                                             | (:heavy_check_mark:) | | | WIP |  |
 | gpt4free                                            |      (:heavy_check_mark:)   | | | WIP |  |
 | [stablediffusion2](https://github.com/localagi/stablediffusion2-docker) |         WIP  |        |                     |                   | |
 
 ### AI-pipeline-built services for *using* inference
 | Service                                                                |  Release              | Original Repo |
 |------------------------------------------------------------------------|-----------------------|---------------|
-| [AGiXT](https://github.com/localagi/AGiXT-docker)                         | :heavy_check_mark:  | [josh-XT/AGiXT](https://github.com/josh-xt/AGiXT) |
-| [AGiXT-Frontend](https://github.com/localagi/agent-llm-frontend)       | :heavy_check_mark:  | [JamesonRGrieve/Agent-LLM-Frontend](https://github.com/JamesonRGrieve/Agent-LLM-Frontend) |
-| [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker)          | :heavy_check_mark:  | [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) |
+| [AGiXT](https://github.com/localagi/AGiXT-docker)                      | ![](https://github.com/localagi/AGiXT-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main)  | [josh-XT/AGiXT](https://github.com/josh-xt/AGiXT) |
+| [AGiXT-Frontend](https://github.com/localagi/agent-llm-frontend)       | ![](https://github.com/localagi/agent-llm-frontend/actions/workflows/publish-docker.yml/badge.svg?branch=main)  | [JamesonRGrieve/Agent-LLM-Frontend](https://github.com/JamesonRGrieve/Agent-LLM-Frontend) |
+| [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker)          | ![](https://github.com/localagi/gpt-code-ui-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main)  | [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) |
 
 
 ### CLI tools and packages

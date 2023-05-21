@@ -32,7 +32,7 @@ With strong expertise in `docker` and `github workflows` I want to test all the 
 The following projects on my namespace are built using the **[AI pipeline](https://github.com/localagi/ai-dedicated-workflows)**.
 My maintenance is focussed on build stabilty and availability of service containers.
 
-* :heavy_check_mark: == Working
+* Build Passing == Working
 * (:heavy_check_mark:) == Working soonish
 * (WIP) == some unstable state
 

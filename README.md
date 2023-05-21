@@ -21,7 +21,7 @@ Setup and streamline docker containers for quick and user friendly usage.
 
 ## :hibiscus: Sharing is caring :hibiscus:
 
-With strong expertise in `docker` and `github workflows` I want to bring all the AI-related projects online.
+With strong expertise in `docker` and `github workflows` I want to test all the AI-related projects online using docker containers.
 
 **Working on [AI-dedicated Workflows](https://github.com/localagi/ai-dedicated-workflows)** to share best practices over several repositories and projects.
 

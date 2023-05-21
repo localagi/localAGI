@@ -35,14 +35,14 @@ My maintenance is focussed on build stabilty and availability of service contain
 * (WIP) == some unstable state
 
 ### AI-pipeline-built services for *running* inference
-| Service                                                          | Model-types     | Model-quantisations | API-compatibility | Release              | Original Repo |
--------------------------------------------------------------------|-----------------|---------------------|-------------------|----------------------|---------------|
-| [FastChat](https://github.com/localagi/FastChat-docker)          | e.g. Vicuna, T5 | T5, HF              | OpenAI            | :heavy_check_mark:   | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
-| [oobabooga](https://github.com/localagi/oobabooga-docker)        | LLama           | HF, GGML, GPTQ      | oobabooga         | :heavy_check_mark: | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) |
-| [llama-cpp-server](https://github.com/localagi/llama-cpp-docker) | LLama           | HF, GGML            | OpenAI            | (WIP) | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) |
+| Service                                                          | Release            | Model-types     | Model-quantisations | API-compatibility | Original Repo |
+-------------------------------------------------------------------|--------------------|-----------------|---------------------|-------------------|---------------|
+| [FastChat](https://github.com/localagi/FastChat-docker)          | :heavy_check_mark: | e.g. Vicuna, T5 | T5, HF              | OpenAI            | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
+| [oobabooga](https://github.com/localagi/oobabooga-docker)        | :heavy_check_mark: | LLama           | HF, GGML, GPTQ      | oobabooga         | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) |
+| [llama-cpp-server](https://github.com/localagi/llama-cpp-docker) | :heavy_check_mark: | LLama           | HF, GGML            | OpenAI            | :heavy_check_mark: | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) |
 | gpt4all | | | | WIP |  |
 | gpt4free | | | | WIP |  |
-| [stablediffusion2](https://github.com/localagi/stablediffusion2-docker) |        |                     |                   |                     WIP  | |
+| [stablediffusion2](https://github.com/localagi/stablediffusion2-docker) |         WIP  |        |                     |                   | |
 
 ### AI-pipeline-built services for *using* inference
 | Service                                                                |  Release              | Original Repo |

@@ -8,7 +8,7 @@ Thats me. :bowtie: Building AGI on local hardware.
 
 Building contaners for effectively running a local artificial general intelligence. :mechanical_arm:
 
-## :brain: Motivation :brain:
+## :climbing_woman: Motivation :climbing:
 
 Initially started my work for deployments of [josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT)
 

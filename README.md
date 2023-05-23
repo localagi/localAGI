@@ -58,6 +58,8 @@ My maintenance is focussed on build stabilty and availability of service contain
 
 
 ### CLI tools and packages
+for quantization, quantization, cli-inference etc.
+
 | Tool                                                                | Release              | Model-types  | Model-quantisations | Original Repo |
 |---------------------------------------------------------------------|----------------------|--------------|---------------------|---------------|
 | [llama.cpp](https://github.com/localagi/llama.cpp-docker)           | ![](https://github.com/localagi/llama.cpp-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | Llama        | HF, GGML  | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) |

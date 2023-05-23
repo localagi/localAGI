@@ -23,13 +23,13 @@ Setup and streamline docker containers for quick and user friendly usage.
 
 With strong expertise in `docker` and `github workflows` I want to test and follow AI-related projects in a comfortable manner.
 
-**Working on [AI-dedicated Workflows](https://github.com/localagi/ai-dedicated-workflows)** to share best practices over several repositories and projects.
+**Working on [AI Pipeline](https://github.com/localagi/ai-pipeline)** to share best practices over several repositories and projects.
 
 ### :star2: When you like any of my work, leave a star! Thank you! :star2:
 
 ## State of work
 
-The following projects are built using the **[AI pipeline](https://github.com/localagi/ai-dedicated-workflows)**.
+The following projects are built using the **[AI pipeline](https://github.com/localagi/ai-pipeline)**.
 
 My maintenance is focussed on build stabilty and availability of service containers. >200h of work. 50.000h of experience.
 

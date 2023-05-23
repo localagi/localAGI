@@ -60,7 +60,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 ### CLI tools and packages
 | Tool                                                                | Release              | Model-types  | Model-quantisations | API-compatibility  | Original Repo |
 |---------------------------------------------------------------------|----------------------|--------------|---------------------|--------------------|---------------|
-| [llama-cpp](https://github.com/localagi/llama-cpp-docker)           | (:heavy_check_mark:) | Llama        | HF, GGML            | N/A                | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) |
+| [llama.cpp](https://github.com/localagi/llama.cpp-docker)           | (:heavy_check_mark:) | Llama        | HF, GGML            | N/A                | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) |
 | [llama-gptq](https://github.com/localagi/llama-gptq-docker)         | (:heavy_check_mark:) | Llama        |  GPTQ               | N/A                | [oobabooga/GPTQ-for-Llama](https://github.com/oobabooga/GPTQ-for-LLaMa)  [qwopqwop200/GPTQ-for-Llama](https://github.com/qwopqwop200/GPTQ-for-LLaMa)  |
 | [AutoGPTQ](https://github.com/localagi/AutoGPTQ-docker)             | WIP                  | Llama        |  GPTQ               | N/A                | [PanQiWei/AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) |
 

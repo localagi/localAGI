@@ -3,10 +3,11 @@ Fulltime nerd. Passionate developer. DevOp at heart.
 
 Thats me. :bowtie: Building AGI on local hardware.
 
+Building contaners for effectively running a local artificial general intelligence. :mechanical_arm:
+
 *You want to **run your own inferences** with ease? Good you are awake.*
 
-
-Building contaners for effectively running a local artificial general intelligence. :mechanical_arm:
+Contact: Find me on [AGiXT Discord Server](https://discord.gg/d3TkHRZcjD) or [open an issue here](https://github.com/localagi/localAGI/issues/new).
 
 ## :climbing_woman: Motivation :climbing:
 

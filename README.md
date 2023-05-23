@@ -38,7 +38,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 * (WIP) == some unstable state
 
 ### Services for *running* inference
-| Service                                                          | Release            | Model-types     | Model-quantisations | API | Original Repo |
+| Dockerized Service                                               | Release            | Model-types     | Model-quantisations | API | Original Repo |
 -------------------------------------------------------------------|--------------------|-----------------|---------------------|-------------------|---------------|
 | [FastChat](https://github.com/localagi/FastChat-docker)          | ![](https://github.com/localagi/FastChat-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | e.g. Vicuna, T5 | T5, HF              | OpenAI            | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
 | [oobabooga](https://github.com/localagi/oobabooga-docker)        | ![](https://github.com/localagi/oobabooga-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | LLama           | HF, GGML, GPTQ      | oobabooga         | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) |
@@ -50,7 +50,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 | [stablediffusion2](https://github.com/localagi/stablediffusion2-docker) |         WIP  |        |                     |                   | |
 
 ### Services for *using* inference
-| Service                                                                |  Release              | Original Repo |
+| Dockerized Service                                                     |  Release              | Original Repo |
 |------------------------------------------------------------------------|-----------------------|---------------|
 | [AGiXT](https://github.com/localagi/AGiXT-docker)                      | ![](https://github.com/localagi/AGiXT-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main)  | [josh-XT/AGiXT](https://github.com/josh-xt/AGiXT)  | 
 | [AGiXT-Frontend](https://github.com/localagi/agent-llm-frontend)       | :heavy_check_mark: | [JamesonRGrieve/Agent-LLM-Frontend](https://github.com/JamesonRGrieve/Agent-LLM-Frontend) |

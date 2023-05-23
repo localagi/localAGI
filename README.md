@@ -38,7 +38,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 * (WIP) == some unstable state
 
 ### AI-pipeline-built services for *running* inference
-| Service                                                          | Release            | Model-types     | Model-quantisations | API-compatibility | Original Repo |
+| Service                                                          | Release            | Model-types     | Model-quantisations | API-type | Original Repo |
 -------------------------------------------------------------------|--------------------|-----------------|---------------------|-------------------|---------------|
 | [FastChat](https://github.com/localagi/FastChat-docker)          | ![](https://github.com/localagi/FastChat-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | e.g. Vicuna, T5 | T5, HF              | OpenAI            | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
 | [oobabooga](https://github.com/localagi/oobabooga-docker)        | ![](https://github.com/localagi/oobabooga-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | LLama           | HF, GGML, GPTQ      | oobabooga         | [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) |

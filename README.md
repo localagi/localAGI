@@ -62,7 +62,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 |---------------------------------------------------------------------|----------------------|--------------|---------------------|---------------|
 | [llama.cpp](https://github.com/localagi/llama.cpp-docker)           | ![](https://github.com/localagi/llama.cpp-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | Llama        | HF, GGML  | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) |
 | [ggml](https://github.com/localagi/ggml-docker)                      | WIP                  | Llama        |  GGML   | [ggerganov/ggml](https://github.com/ggerganov/ggml) |
-| [llama-gptq](https://github.com/localagi/llama-gptq-docker)         | (:heavy_check_mark:) | Llama        |  GPTQ    | [oobabooga/GPTQ-for-Llama](https://github.com/oobabooga/GPTQ-for-LLaMa)  [qwopqwop200/GPTQ-for-Llama](https://github.com/qwopqwop200/GPTQ-for-LLaMa)  |
+| [llama-gptq](https://github.com/localagi/llama-gptq-docker)         | (:heavy_check_mark:) | Llama        |  GPTQ    | [oobabooga/GPTQ-for-Llama](https://github.com/oobabooga/GPTQ-for-LLaMa) <br> [qwopqwop200/GPTQ-for-Llama](https://github.com/qwopqwop200/GPTQ-for-LLaMa)  |
 | [AutoGPTQ](https://github.com/localagi/AutoGPTQ-docker)             | WIP                  | Llama        |  GPTQ    | [PanQiWei/AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) |
 
 ## Requests

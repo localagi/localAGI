@@ -15,9 +15,9 @@ After entering the AI-space begin of may 2023, I wanted to try out all cool soft
 
 After discovering [josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - and getting a bit&trade; euphoric, I started boxing AGiXT into a docker container using a github workflow.
 
-[localAGI/AGiXT-docker](https://github.com/localagi/AGiXT-docker) quickly spawned [localAGI/AI-pipeline](https://github.com/localagi/AI-pipeline) - and I started reusing for different projects.
+[localAGI/AGiXT-docker](https://github.com/localagi/AGiXT-docker) quickly spawned [localAGI/AI-pipeline](https://github.com/localagi/AI-pipeline) - and I started reusing the pipeline for different projects.
 
-This has improved over several iterations now.
+Everything has improved over several iterations now.
 
 ## 🎯 Goal 🎯
 

@@ -9,7 +9,7 @@ Building contaners for effectively running a local artificial general intelligen
 
 **Contact**: Find me on [AGiXT Discord Server](https://discord.gg/d3TkHRZcjD) or [open an issue here](https://github.com/localagi/localAGI/issues/new).
 
-**[ 🐋 Docker Hub 🐳](https://hub.docker.com/u/localagi)**
+**[ 🐋 Docker Hub 🐋 ](https://hub.docker.com/u/localagi)**
 
 ## :climbing_woman: Motivation :climbing:
 

@@ -70,7 +70,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 
 
 ### 🦿 CLI tools and packages
-for quantization, quantization, cli-inference etc.
+for quantization, conversion, cli-inference etc.
 
 | Tool                                                                | Release              | Model-types  | Model-quantisations | Original Repo |
 |---------------------------------------------------------------------|----------------------|--------------|---------------------|---------------|

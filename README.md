@@ -46,6 +46,8 @@ My maintenance is focussed on build stabilty and availability of service contain
 * (WIP) == some unstable state
 
 ### 🧠 Services for *running* inference
+🔥 your cuda card from 🐳 docker containers
+
 | Service                                               | Release            | Model-types     | Model-quantisations | API | Original Repo |
 -------------------------------------------------------------------|--------------------|-----------------|---------------------|-------------------|---------------|
 | [FastChat](https://github.com/localagi/FastChat-docker)          | ![](https://github.com/localagi/FastChat-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | e.g. Vicuna, T5 | T5, HF              | OpenAI            | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |

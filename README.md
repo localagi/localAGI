@@ -56,7 +56,6 @@ My maintenance is focussed on build stabilty and availability of service contain
 | [llama.cpp](https://github.com/localagi/llama.cpp-docker) |![](https://github.com/localagi/llama.cpp-docker/actions/workflows/publish-docker.yml/badge.svg?branch=master)|   GGML            | ?            | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) |
 | [gpt4all](https://github.com/localagi/gpt4all-docker)            | ![](https://github.com/localagi/gpt4all-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | see [backend](https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-backend) | ? | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) |
 | [gpt4all-ui](https://github.com/localagi/gpt4all-ui-docker)            | ![](https://github.com/localagi/gpt4all-ui-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | GPTJ, MPT, GGML...?          | ? | [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) |
-| [gpt4free](https://github.com/localagi/gpt4free-docker)  | ![](https://github.com/localagi/gpt4free-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | | | | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)  |
 | [stablediffusion2](https://github.com/localagi/stablediffusion2-docker) |         WIP  |        |                     |                   | |
 
 ### 🎩 Services for *using* inference
@@ -65,6 +64,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 | [AGiXT](https://github.com/localagi/AGiXT-docker)                      | ![](https://github.com/localagi/AGiXT-docker/actions/workflows/publish-docker-test.yaml/badge.svg?branch=main)  | [josh-XT/AGiXT](https://github.com/josh-xt/AGiXT)  | 
 | [AGiXT-Frontend](https://github.com/localagi/agent-llm-frontend)       | :heavy_check_mark: | [JamesonRGrieve/Agent-LLM-Frontend](https://github.com/JamesonRGrieve/Agent-LLM-Frontend) |
 | [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker)          | ![](https://github.com/localagi/gpt-code-ui-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main)  | [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) |
+| [gpt4free](https://github.com/localagi/gpt4free-docker)  | ![](https://github.com/localagi/gpt4free-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)  |
 
 
 ### 🦿 CLI tools and packages

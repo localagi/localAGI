@@ -66,7 +66,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 | [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker)          | ![](https://github.com/localagi/gpt-code-ui-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main)  | [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) |
 
 
-### 🔧 CLI tools and packages
+### 🦿 CLI tools and packages
 for quantization, quantization, cli-inference etc.
 
 | Tool                                                                | Release              | Model-types  | Model-quantisations | Original Repo |

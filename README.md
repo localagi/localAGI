@@ -46,7 +46,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 * (:heavy_check_mark:) == Working soonish
 * (WIP) == some unstable state
 
-### Services for *running* inference
+### 🧠 Services for *running* inference
 | Service                                               | Release            | Model-types     | Model-quantisations | API | Original Repo |
 -------------------------------------------------------------------|--------------------|-----------------|---------------------|-------------------|---------------|
 | [FastChat](https://github.com/localagi/FastChat-docker)          | ![](https://github.com/localagi/FastChat-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | e.g. Vicuna, T5 | T5, HF              | OpenAI            | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) |
@@ -58,7 +58,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 | [gpt4free](https://github.com/localagi/gpt4free-docker)  | ![](https://github.com/localagi/gpt4free-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | | | | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)  |
 | [stablediffusion2](https://github.com/localagi/stablediffusion2-docker) |         WIP  |        |                     |                   | |
 
-### Services for *using* inference
+### 🎩 Services for *using* inference
 | Service                                                     |  Release              | Original Repo |
 |------------------------------------------------------------------------|-----------------------|---------------|
 | [AGiXT](https://github.com/localagi/AGiXT-docker)                      | ![](https://github.com/localagi/AGiXT-docker/actions/workflows/publish-docker-test.yaml/badge.svg?branch=main)  | [josh-XT/AGiXT](https://github.com/josh-xt/AGiXT)  | 
@@ -66,7 +66,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 | [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker)          | ![](https://github.com/localagi/gpt-code-ui-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main)  | [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) |
 
 
-### CLI tools and packages
+### 🔧 CLI tools and packages
 for quantization, quantization, cli-inference etc.
 
 | Tool                                                                | Release              | Model-types  | Model-quantisations | Original Repo |

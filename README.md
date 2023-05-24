@@ -11,7 +11,15 @@ Building contaners for effectively running a local artificial general intelligen
 
 ## :climbing_woman: Motivation :climbing:
 
-Initially started my work for deployments of [josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT)
+After entering the AI-space begin of may 2023, I wanted to try out all cool software available. Local development setups have always been tricky and I struggled - as always - installing environments for different project with different compilations of library versions etc.
+
+After discovering [josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - and getting a bit&trade; euphoric, I started boxing this software into a docker workflow.
+
+[localAGI/AGiXT-docker](https://github.com/localagi/AGiXT-docker) quickly spawned [localAGI/AI-pipeline](https://github.com/localagi/AI-pipeline) - and I started reusing for different projects.
+
+This has improved over several iterations now.
+
+## Goal
 
 Having reproducable software environments to spin up services on demand for testing and sky-netting.
 Setup and streamline docker containers for quick and user friendly usage.

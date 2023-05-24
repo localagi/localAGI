@@ -17,8 +17,6 @@ After discovering [josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - and gettin
 
 [localAGI/AGiXT-docker](https://github.com/localagi/AGiXT-docker) quickly spawned [localAGI/AI-pipeline](https://github.com/localagi/AI-pipeline) - and I started reusing the pipeline for different projects.
 
-Everything has improved over several iterations now.
-
 ## 🎯 Goal 🎯
 
 Having reproducable software environments to spin up services on demand for testing and sky-netting.

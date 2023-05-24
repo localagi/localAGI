@@ -43,10 +43,6 @@ The following projects are built using the **[AI pipeline](https://github.com/lo
 
 My maintenance is focussed on build stabilty and availability of service containers. >200h of work. 50.000h of experience.
 
-* **Build Passing == Working**
-* (:heavy_check_mark:) == Working soonish
-* (WIP) == some unstable state
-
 ### 🧠 Services for *running* inference
 🔥 your cuda card from 🐳 docker containers
 

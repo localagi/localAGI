@@ -11,7 +11,7 @@ Building contaners for effectively running a local artificial general intelligen
 
 ## :climbing_woman: Motivation :climbing:
 
-After entering the AI-space begin of may 2023, I wanted to try out all cool software available. Local development setups have always been tricky and I struggled - as always - installing environments for different project with different compilations of library versions etc.
+After entering the AI-space begin of may 2023, I wanted to try out all cool software available. Local development setups have always been tricky and I struggled installing environments for different projects with different compilations of library versions etc.
 
 After discovering [josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - and getting a bit&trade; euphoric, I started boxing this software into a docker workflow.
 

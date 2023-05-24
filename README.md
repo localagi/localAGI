@@ -36,7 +36,7 @@ With strong expertise in `docker` and `github workflows` I want to test and foll
 
 ### :star2: When you like any of my work, leave a star! Thank you! :star2:
 
-## State of work
+## 🤖 State of work 🤖
 
 The following projects are built using the **[AI pipeline](https://github.com/localagi/ai-pipeline)**.
 

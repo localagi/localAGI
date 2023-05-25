@@ -74,6 +74,7 @@ for quantization, conversion, cli-inference etc.
 | [ggml](https://github.com/localagi/ggml-docker)                      | ![](https://github.com/localagi/ggml-docker/actions/workflows/publish-docker.yml/badge.svg?branch=master)                  | Llama        |  GGML   | [ggerganov/ggml](https://github.com/ggerganov/ggml) |
 | [GPTQ-for-Llama](https://github.com/localagi/GPTQ-for-Llama-docker)         | ![](https://github.com/localagi/GPTQ-for-Llama-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | Llama        |  GPTQ [cuda old, cuda new]   | [oobabooga/GPTQ-for-Llama](https://github.com/oobabooga/GPTQ-for-LLaMa) <br> [qwopqwop200/GPTQ-for-Llama](https://github.com/qwopqwop200/GPTQ-for-LLaMa)  |
 | [AutoGPTQ](https://github.com/localagi/AutoGPTQ-docker)             | ![](https://github.com/localagi/AutoGPTQ-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main)                  | Llama        |  GPTQ [triton]   | [PanQiWei/AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) |
+| [starcoder.cpp](https://github.com/localagi/starcoder.cpp-docker)             | ![](https://github.com/localagi/starcoder.cpp-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main)                  | Llama        |  GPTQ [triton]   | [bigcode-project/starcoder.cpp]([https://github.com/bigcode-project/starcoder.cpp) |
 
 ## Requests
 Any? Contact me (curently on AGiXT-Discord)

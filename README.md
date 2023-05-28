@@ -59,7 +59,7 @@ My maintenance is focussed on build stabilty and availability of service contain
 ### 🎩 Services for *using* inference
 | Service                                                     |  Release              | Original Repo |
 |------------------------------------------------------------------------|-----------------------|---------------|
-| [AGiXT](https://github.com/localagi/AGiXT-docker)                      | ![](https://github.com/localagi/AGiXT-docker/actions/workflows/publish-docker-test.yaml/badge.svg?branch=main)  | [josh-XT/AGiXT](https://github.com/josh-xt/AGiXT)  | 
+| ~~[AGiXT](https://github.com/localagi/AGiXT-docker)~~                      | 🕺 integrated upstream | [josh-XT/AGiXT](https://github.com/josh-xt/AGiXT)  | 
 | [AGiXT-Frontend](https://github.com/localagi/agent-llm-frontend)       | :heavy_check_mark: | [JamesonRGrieve/Agent-LLM-Frontend](https://github.com/JamesonRGrieve/Agent-LLM-Frontend) |
 | [gpt-code-ui](https://github.com/localagi/gpt-code-ui-docker)          | ![](https://github.com/localagi/gpt-code-ui-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main)  | [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) |
 | [gpt4free](https://github.com/localagi/gpt4free-docker)  | ![](https://github.com/localagi/gpt4free-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free)  |

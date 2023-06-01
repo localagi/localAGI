@@ -1,9 +1,13 @@
 ## 🧮 localAGI 🧮
 
 ###############################
+
 Update - work is paused. Github is a b****. 
+
 ![image](https://github.com/localagi/localAGI/assets/132956819/09336de8-5e3d-4f7f-b1d5-594f4f55fc13)
+
 No, they don't answer to support tickets. This profile is probably done. You can still mail me, but i tend to remove everyting in close future.
+
 And I am PRO user.
 ###############################
 Fulltime nerd. Passionate developer. DevOp at heart.

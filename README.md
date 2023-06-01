@@ -1,6 +1,6 @@
 ## 🧮 localAGI 🧮
 
-###############################
+----------------------------------
 
 Update - work is paused. Github is a b****. 
 
@@ -9,7 +9,9 @@ Update - work is paused. Github is a b****.
 No, they don't answer to support tickets. This profile is probably done. You can still mail me, but i tend to remove everyting in close future.
 
 And I am PRO user.
-###############################
+
+----------------------------------
+
 Fulltime nerd. Passionate developer. DevOp at heart.
 
 Thats me. :bowtie: Building AGI on local hardware.

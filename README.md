@@ -1,4 +1,11 @@
 ## 🧮 localAGI 🧮
+
+###############################
+Update - work is paused. Github is a b****. 
+![image](https://github.com/localagi/localAGI/assets/132956819/09336de8-5e3d-4f7f-b1d5-594f4f55fc13)
+No, they don't answer to support tickets. This profile is probably done. You can still mail me, but i tend to remove everyting in close future.
+And I am PRO user.
+###############################
 Fulltime nerd. Passionate developer. DevOp at heart.
 
 Thats me. :bowtie: Building AGI on local hardware.
@@ -37,6 +44,7 @@ With strong expertise in `docker` and `github workflows` I want to test and foll
 ### :star2: When you like any of my work, leave a star! Thank you! :star2:
 
 ## State of work
+**PAUSED, SEE TOP. WILL BE REMOVED SOON. I'LL GIVE GITHUB ONE MORE WEEK TO ANSWER.**
 🤖
 
 The following projects are built using the **[AI pipeline](https://github.com/localagi/ai-pipeline)**.

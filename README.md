@@ -3,9 +3,9 @@
 ----------------------------------
 
 #### Update - archived
-Due to several offensive actions against my person, I left AGiXT development and will also leave github.
+Due to several reasons, I left AGiXT development and will also leave github.
 
-Despite not acting anymore in terms of FOSS or offering integration, I will leave this an archive. 
+Despite not acting anymore in terms of FOSS or offering integration, I will let the pages and repos as reference.
 
 Have fun all!
 

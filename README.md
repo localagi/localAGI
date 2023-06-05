@@ -2,7 +2,16 @@
 
 ----------------------------------
 
-Update - work is paused. Github is a b****. 
+#### Update - archived
+Due to several offensive actions against my person, I left AGiXT development and will also leave github.
+
+Despite not acting anymore in terms of FOSS or offering integration, I will leave this an archive. 
+
+Have fun all!
+
+
+
+#### Update - work is paused. Github is a b****. 
 
 ![image](https://github.com/localagi/localAGI/assets/132956819/09336de8-5e3d-4f7f-b1d5-594f4f55fc13)
 
